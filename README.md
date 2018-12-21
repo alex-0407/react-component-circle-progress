@@ -1,7 +1,7 @@
 ## Install
 
 ```
-npm i react-circle-progress
+npm i react-component-circle-progress
 ```
 
 ## Usage
